@@ -6,6 +6,10 @@
 	{
 		"package": "license-testing",
 		"url": "https://github.com/litmusverse/license-testing"
-	}
+	},
+	{
+		"package": "basic",
+		"url": "https://github.com/litmusverse/basic"
+	},
 
 ]
