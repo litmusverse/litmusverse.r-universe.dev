@@ -4,12 +4,12 @@
 		"url": "https://github.com/litmusverse/minimal"
 	},
 	{
-		"package": "license-testing",
+		"package": "license.testing",
 		"url": "https://github.com/litmusverse/license-testing"
 	},
 	{
 		"package": "basic",
 		"url": "https://github.com/litmusverse/basic"
-	},
+	}
 
 ]
